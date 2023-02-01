@@ -19,5 +19,8 @@
   "homepage": "https://github.com/rakharan/Dumbways-Batch-44-C2#readme",
   "devDependencies": {
     "tailwindcss": "^3.2.4"
+  },
+  "dependencies": {
+    "@tailwindcss/line-clamp": "^0.4.2"
   }
 }
